@@ -7,7 +7,7 @@ const DataTable = () => {
     const context = useContext(DataAreaContext);
 
     return (
-        <div className="datatable mt-5">
+        <div className="dataTable mt-5">
             <table id="table" className="table table-striped table-hover table-condensed">
                 <thead>
                     <tr>
